@@ -5,3 +5,4 @@
 |__Lecture__|__Note__|
 |:---:|:---:|
 |3강. Numpy의 기본 사용법|[📝](https://blog.naver.com/ljwon77_/222229470649)|
+|4강. Numpy의 연산과 함수|[📝](https://blog.naver.com/ljwon77_/222230815032)|
