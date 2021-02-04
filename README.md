@@ -6,3 +6,7 @@
 |:---:|:---:|
 |3강. Numpy의 기본 사용법|[📝](https://blog.naver.com/ljwon77_/222229470649)|
 |4강. Numpy의 연산과 함수|[📝](https://blog.naver.com/ljwon77_/222230815032)|
+|5강. Numpy의 활용|[📝](https://blog.naver.com/ljwon77_/222231982876)|
+|6강. OpenCV 소개 및 기본 사용법|[📝](https://blog.naver.com/ljwon77_/222232062051)|
+|7강. OpenCV 이미지 연산|[📝](https://blog.naver.com/ljwon77_/222232085435)|
+|8강. OpenCV 이미지 변형|[📝](https://blog.naver.com/ljwon77_/222232144415)|
