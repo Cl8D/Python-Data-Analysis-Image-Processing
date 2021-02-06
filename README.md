@@ -10,3 +10,5 @@
 |6강. OpenCV 소개 및 기본 사용법|[📝](https://blog.naver.com/ljwon77_/222232062051)|
 |7강. OpenCV 이미지 연산|[📝](https://blog.naver.com/ljwon77_/222232085435)|
 |8강. OpenCV 이미지 변형|[📝](https://blog.naver.com/ljwon77_/222232144415)|
+|9강. OpenCV 이미지 합치기|[📝](https://blog.naver.com/ljwon77_/222234564238)|
+|10강. OpenCV 임계점 처리하기|[📝](https://blog.naver.com/ljwon77_/222234592126)|
