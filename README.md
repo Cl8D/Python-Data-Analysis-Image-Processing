@@ -12,3 +12,4 @@
 |8강. OpenCV 이미지 변형|[📝](https://blog.naver.com/ljwon77_/222232144415)|
 |9강. OpenCV 이미지 합치기|[📝](https://blog.naver.com/ljwon77_/222234564238)|
 |10강. OpenCV 임계점 처리하기|[📝](https://blog.naver.com/ljwon77_/222234592126)|
+|11강. OpenCV Tracker|[📝](https://blog.naver.com/ljwon77_/222235036980)|
