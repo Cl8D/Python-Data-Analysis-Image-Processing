@@ -1,5 +1,5 @@
 ### README.md
-- Python 데이터 분석과 이미지 처리 강의 정리본입니다!
+- Python 데이터 분석과 이미지 처리 강의 정리본입니다! [📺](https://www.youtube.com/watch?v=V8Lpf3WCZ4g&list=PLRx0vPvlEmdBx9X5xSgcEk4CEbzEiws8C&index=1)
   
  ### 개념 및 코드 정리✨
 |__Lecture__|__Note__|
@@ -15,3 +15,4 @@
 |11강. OpenCV Tracker|[📝](https://blog.naver.com/ljwon77_/222235036980)|
 |12강. OpenCV 도형 그리기|[📝](https://blog.naver.com/ljwon77_/222236151965)|
 |13강. OpenCV Contours|[📝](https://blog.naver.com/ljwon77_/222238244344)|
+|14강. OpenCV Contours 처리|[📝](https://blog.naver.com/ljwon77_/222239627239)|
