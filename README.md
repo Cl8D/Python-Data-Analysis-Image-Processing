@@ -16,3 +16,4 @@
 |12강. OpenCV 도형 그리기|[📝](https://blog.naver.com/ljwon77_/222236151965)|
 |13강. OpenCV Contours|[📝](https://blog.naver.com/ljwon77_/222238244344)|
 |14강. OpenCV Contours 처리|[📝](https://blog.naver.com/ljwon77_/222239627239)|
+|15강. OpenCV Filtering|[📝](https://blog.naver.com/ljwon77_/222240390059)|
