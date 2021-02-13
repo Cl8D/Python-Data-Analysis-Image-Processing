@@ -18,3 +18,4 @@
 |14강. OpenCV Contours 처리|[📝](https://blog.naver.com/ljwon77_/222239627239)|
 |15강. OpenCV Filtering|[📝](https://blog.naver.com/ljwon77_/222240390059)|
 |16강. KNN 알고리즘|[📝](https://blog.naver.com/ljwon77_/222241200361)|
+|17강. KNN 숫자 인식 예제|[📝](https://blog.naver.com/ljwon77_/222242044012)|
