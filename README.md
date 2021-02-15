@@ -19,3 +19,6 @@
 |15강. OpenCV Filtering|[📝](https://blog.naver.com/ljwon77_/222240390059)|
 |16강. KNN 알고리즘|[📝](https://blog.naver.com/ljwon77_/222241200361)|
 |17강. KNN 숫자 인식 예제|[📝](https://blog.naver.com/ljwon77_/222242044012)|
+|18강. 중급 Captcha Hacking 1 - Problem Define|[📝](https://blog.naver.com/ljwon77_/222243095483)|
+|19강. 중급 Captcha Hacking 2 - 데이터 수집과 분석|[📝](https://blog.naver.com/ljwon77_/222244280374)|
+|20강. 중급 Captcha Hacking 3 - 데이터 정제|[📝](https://blog.naver.com/ljwon77_/222244480890)|
