@@ -24,3 +24,4 @@
 |20강. 중급 Captcha Hacking 3 - 데이터 정제|[📝](https://blog.naver.com/ljwon77_/222244480890)|
 |21강. 중급 Captcha Hacking 4 - KNN 모델 학습|[📝](https://blog.naver.com/ljwon77_/222245747797)|
 |22강. 중급 Captcha Hacking 5 - 해킹 자동화|[📝](https://blog.naver.com/ljwon77_/222246936268)|
+|23강. Pandas의 기본 사용법|[📝](https://blog.naver.com/ljwon77_/222247756222)|
