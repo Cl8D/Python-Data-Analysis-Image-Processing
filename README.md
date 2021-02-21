@@ -27,3 +27,4 @@
 |23강. Pandas의 기본 사용법|[📝](https://blog.naver.com/ljwon77_/222247756222)|
 |24강. Pandas의 연산과 함수|[📝](https://blog.naver.com/ljwon77_/222249473446)|
 |25강. Pandas의 활용|[📝](https://blog.naver.com/ljwon77_/222250357190)|
+|25강. Matplotlib 기초|[📝](https://blog.naver.com/ljwon77_/222251107402)|
