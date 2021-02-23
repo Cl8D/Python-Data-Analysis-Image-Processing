@@ -29,3 +29,4 @@
 |25강. Pandas의 활용|[📝](https://blog.naver.com/ljwon77_/222250357190)|
 |26강. Matplotlib 기초|[📝](https://blog.naver.com/ljwon77_/222251107402)|
 |27강. Matplotlib 다루기|[📝](https://blog.naver.com/ljwon77_/222252904914)|
+|28강. 웹 크롤링|[📝](https://blog.naver.com/ljwon77_/222253423551)|
