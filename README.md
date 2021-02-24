@@ -30,3 +30,4 @@
 |26강. Matplotlib 기초|[📝](https://blog.naver.com/ljwon77_/222251107402)|
 |27강. Matplotlib 다루기|[📝](https://blog.naver.com/ljwon77_/222252904914)|
 |28강. 웹 크롤링|[📝](https://blog.naver.com/ljwon77_/222253423551)|
+|98강. 네이버 영화 리뷰 데이터 분석 1|[📝](https://blog.naver.com/ljwon77_/222255104667)|
